@@ -1,0 +1,362 @@
+Header
+...........
+1. Verify the heade section added on the website.
+2. verify header section is aligned.
+3. Verify icons aligned with the text if added to header.
+4. Verify icons added should be related to the link test.
+5. Verify whether link text should be readable or not.
+6. Verify the logo of the website added on the header on the header is aligned or not.
+7. Verify the same header used on whole page website pages.
+8. Verify header is sticky on the whole page or fixed as per requirments and design.
+9  Verify whether all links should be opening on the header or not.
+10.Verify on click on the link on the header the correct page should be open.
+11.Verify the home page should be open on clicking on the logo on all pages.
+12.verify on the mouse over colour change or not for the link added on the header menu.
+13.Verify that selected header link should remain active to inform the user about the clicked screen/page.
+14.Verify search bar is added to the header menu or not.
+15.Verify header and body section should not look the same.The header and body section must distinguish.
+17.Verify icon colour should also change on mouse over on the header if icons are added (<).
+18.Verify dropdown options added on the header shown on mouse over or click.
+
+
+Footer
+................
+1. verify the footer section is aligned at the end of the page.
+2. Verify there should be no extra white space at the end of the footer on high screen resolutions.
+3. Verify element at the aligned at the footer section or not.
+4. Verify footer section should be the same for all pages.
+5. Verify the logo shown at the footer.
+6. Verify logo is aligned on the footer.
+7. Verify from any page on click on the logo home page should be open.
+8. Verify by clicking on the links correct pages should be loded.
+9. Verify all social links with icons added on the footer.
+10.Verify no spelling mistakes for the text on the footer section.
+11.Verify there must be equal space or the elements links,button and social links from top and bottom at footer section.
+12. verify no broken links is found on the footer.
+13.Verify whether the subscription to the newsletter section present or not.
+14.Verify whether the subscription to the newsletter email field with subscribe button present or not.
+15.Verify Validation on the email field for subscribing to the newsletter added or not.
+16.Verify an error message shown on blank input on click on the subscribe button.
+17.verify confirmation message should be shown if the user subscribed successfully.
+18.Verify mouse cursor changes fr20om a pointer to a hand on the link.ther 
+20.Verify correct year was added to the footer section or not.
+21.Verify whether the copyright icons is added or not on the footer section.
+22.Verify the size of the copyright icon.
+
+
+ Uplode file/image
+..................................
+1. Verify uplode file button or link is present.
+2. Verify the uplode button or link should be clickable.
+3.Verify that the whole button including the button text should be clickable.
+4. Verify text upload on the button.
+5. Verify icon added with the upload button is in the design and is alinged or not.
+6. Verify on click on the Upload button window should be open to select the file.
+7. Verify cancel button is working .On click on the cancel button window should be closed.
+8. verify that the user can be able to select and upoad multiple files if required.
+9. Verify users can upload multiple files at once.
+10 Verify the order of the file should be the same as the files uploaded or both cases one by one and multiple files uploaded.
+11. verify that the user can only be able to upload the allowed files lke jpj,png,etc....
+12.Verify a proper errer message should be shown in case the user tries to upload the file which is not allowed .File type not allowed.
+13 Verify an errror message should be shown in case the user tires to upload files more than the allowed limit.
+14 verify on uploading file loader shuold be shown.
+15 Verify there should be some indications on the uploading file.
+16 Verify on upload amlocked file password pop message should be shown.
+17 Verify file should be upload if the user adds the correct password for the locked file.
+18 Verify a proper error message should be shown in case if password added for the protected or locked file is not correct.
+19 Verify that the file name should be the same and displayed after uploading the file.
+20 Verify that the file size should be shown under the file name.
+21 Verify an error message shown if the file size is large than the allowed one.
+22 verify an error message if the file is empty and has no content.
+23 Verify the application behavior by uploading a large name file.
+24 Verify ...3dots should be shown in case the file name is too large and distrub the dsign25
+25 Verify on the drop file ,the file should not open on the browser.
+26 Verify on the drop files it should not download.
+
+
+    Login
+   ....................
+1. Verify the  user credential remained on the field after clicking remember and get back to the login screen again.
+2. Verify that the user will be able to login with their account with the correct credential.
+3. Verify that the user will get into their dashboard screen after login in with the correct credentials.
+4. Verify that the user can access all controls and elements by pressing the tab key from the keyboard.
+5. Verify that the user can login by entryig valid credentials and pressing Enter key.
+6. verify that the user can login by enterying valid credentials and clicking on the Login button.
+7. Verify that the password entered should be in encrypted from.
+8. Verify  whether an eye icon is added to the password field or not.
+9. Verify that the user can be able to view the password by clicking on the eye icon.
+10 Verify line spacing added on password on mac.
+11 There should be an email verification check as the user verifies the email address then yhe user is able to view the dashboard and access features.
+12 Add a captcha on the login from to prevent the robot attack.
+13 Verify the error message should display after just entering an email address and leaving the password field blank.
+14 Verify the error message should display after just entering a password and leave the email field blank.
+15 Verify the error message should display after entering the invalid credentials.
+16 Verify the error message should display after entering an invalid email format.
+17 Verify the display error message for invalid email format should be correct.
+18 Verify the displayed error message grammar should be correct.
+19 Verify the displayed error message spell should be correct.
+20 Verify logged in user should not log out on closing the browser.
+21 Verify the login sesion timeout durtion so once logined in a user can not be authenticate for a lifetime.
+22 Verify the logged in user  dose not log out by clicking the back button on the browsers tab.
+23 Verify that there is a limit to the total number of unsuccessful login attempts.Therefore users can not use brute force mechanism to try all
+   possible username password combination.
+
+24 verify logged in user copies the URL and paste it into a new browser window ,it should redirect to the login page.
+25 Check login by google and all social options for login in the private window separately.
+26 As the user sings in ,on the home page ,there is no need for displaying singup or try now (if the user logged in )
+27 Add rate limit on login .After how many attempts user should be able to restrict by the app for the wait.
+28 Verify it should not be always in loading in case the user add an invalid email and password.
+
+   
+    Login page
+  .........................
+1. Verify the login screen will appear after clicking on a login link or login button.
+2. Verify all login related elements and all fields are present on login page.
+3. Verify the alignment of displayed elements on the login screen should be comatible in cross browsers testing.
+4. Verify that the size,color and UI of diffrent elements should match the specification.
+5. Verify that the login page of the application is reponsive and aligns properly on diffrent screen resoluations and devices.
+6. Verify login page titel.
+7. Verify the user login page is open,the cursor should remain in the username text box by default.
+8. Verify that there is a checkbox with the label remember password on the login page.
+9. Verify the remember me checkbox should mark as checked after clicking on the label text and the checkbox.
+
+    
+    Regstration  test case
+ .....................................
+
+1. Verify by clicking on the ubmit button for blank input.
+2. Verify all fields related to registration present on the registration from.
+3. Password fields should have validation for a minimum of 8 to 16 charecters, must contain one special charecters ,at least one uppercase 
+   characters and have a numerical.
+4. Verify password added by  the user should be protected encryted and shown in an asterisk.
+5. Verify whether the validation is added for the password and confirm whether passwords are the sameor not.
+6. Verify an eye icon added to the password and confirm the password field.
+7. Verify by clicking on the eye icon password should be shown for both password and confirm password fields.
+8. Verify captcha is added to the form or not. Captcha added due to security .Hidden or visible may be added according to need.
+9. verify example or dummy data shown as placeholder text in the fields. It helps the user to register their account without facing any issues.
+10 Verify that user added information is not removed from the fields incase of any validation fails. Can be done when client side validation is implement.
+11 Verify possible validation should be done on the client side whenever possible.
+12 Verify that validation is added to the email field only valid emails should be allowed to register successfully.
+13 Verify that the user adds blank spaces and clicks on the register button an error message should be shown.
+14 Verify that the user can navigate or access the different controls by pressing the "Tab" key on the keyboard.
+15 Verify users can register successfully by entering valid credentials.
+16 Verify that the user is not allowed to register an account with same registered email by adding plus for examole useractuai+1@gmail.com
+17 Verify by trying to register with an already register email address.
+18 Verify the email verification link was sent to the user's email address successfuly.
+19 Verify that the user should not be able access the application, software or pro features untill the user verifies its email by clickingon the link 
+   sent in the email.
+20 Verify the user is informed to check the spam folder if no email link is found in the inbox.
+21 Verify Resend link opion is present if the user did not receive the link in the email.
+22 Verify resend email link becomes disabled if the user continuously clicks on the Resend link.Set a limit max of five times to send the link 
+   then give the user a rest.
+23 If the user signup with email and social platform and both have the same email consider it one email unquely not the two separate accounts.
+24 Verify that the required fields are not filled in and clicking the Register button will result in a validation error message.
+25 Verify all spelling mistakes on the Register page.
+
+
+    Forgate password test case
+  ...........................................
+
+1. Verify that forget password link should be present on the login page.
+2. verify that on clicking on the forget password link forget password page should open.
+3. Verify that the email field is presnt on the forget password page to recover the password .
+4. Verify as the user update password,the user should log out from all browser and devices.
+5. Verify that storage for the databse on forgot password.
+6. Verify that an email validation is added to the email field.
+7. Verify submit button should be present on the page.
+8. Verify the whole button should be clickable not only the button text.
+9. Verify that the link sent to the user should expire after a certain time.
+10 Verify sent password link should be disable on clicking multiple times on the link or as per specification requirement.
+11 Verify the error message should be displayed after entering an unregistered  user email id.
+12 Verfy the displayed error message for unregistered should be meaningful.
+13 Verify the confirmation message check your email to recover the password should be displayed after clicking on the button by entering the registeed email.
+14 Verify that the user will get an email after entering a valid email id in forget password.
+15 Verify the email which the user gets againts forgot password should be displayed in the inbox ,not in the spam folder.
+16 verify the error message should be displayed when clicking on the recover button without entering the email id.
+17 verify the heading displayed in forget password screen should be "Forget Password".
+18 Verify the error message should be displayed when entering spaces in the field and clicking on the submit button.
+19 Verify user should be login successfully with the new password not by the old password.
+20 Verify message should be shown on profile change your password incase if a temporary is sent in the email.
+
+
+    Test cases for Button
+  ..................................
+
+1. Verify button pesent on the page as per the design on the web page.
+2. Verify the button colour same as per design.
+3. verify  icon added on the button if added in the design, for example- Upload or Download icon with the button.
+4. Verify icon added on the button must be aligned with button and button text or not.
+5. Verify width and height for the button.
+6. Verify border radius is applied on the button or not.
+7. Verify that the width and height of the buttons used the website are the same or not as per design.
+8. Verify button text related to the functionality of the tool on the web page.
+9. Verify button is enable /clickable or not by clicking on the button.
+10 Verify colour changed on the mouse hover or not.
+11 Verify colour changed on mouse hover the same as per design.
+12 Verify user can be able to open button link in a new tab by right click on the button, open link new tab option shown or not.
+13 Verify whether pressing the " Ctrl" button on the keyboard and click on the button opens a new tab or not .It should be according to the requirements.
+14 verify the whole button should be clickable not only button text.
+15 Verify values added by the user on click on the submit button saved correctly in the database.
+16 Verify the user should not be allowed to click on the submit from/page button multiple times intentionally or unintentionally.
+17 Verify the desired action performed on click button or not.
+18 Verify the spelling for the button text is correct or not.
+19 Check button text is readable or not by verifying button text size.
+20 Verify button text colour should be visible on the button.
+21 Verify font family provided by the designer implement or not.
+22 Verify the reset button should set default.
+
+
+
+   Test case for Radio button
+ .......................................
+
+1. Verify radio buttons present on the page as per design.
+2. Verify the size of the radio button should be the same as per design.
+3. Verify style and colour for the radio buttons should be the same as per requirements or not.
+4. Verify label text present on the page with the radio buttons.
+5. verify the label text for the radio buttons added in the same sequence as per specification.
+6. Verify spellings for the label text with the radio buttons are correct or not.
+7. verify if the label text alinged with the radio buttons or not.
+8. Verify if the radio button is selectable and unselectable or not by clicking all radio buttons.
+9. Verify on clicking on the label text, whether the radio button value is selected or not.
+10 Verify only one value from the radio buttons can be selected r not.
+11 Verify user can choose any option from the radio buttons by pressing the tab key on the keyboard.
+12 Verify whether an error message is shown or not incase the user not select any value and click on the submit button.
+13 Verify selected radio button value is saved in the database correctly or not.
+
+
+     Test case for checkbox
+  ............................................
+
+1. Verify that the checkbox present on the webpage is in the correct position.
+2. Verify the width and height of the checkbox.
+3. Verify the border radius for the checkbox rounded or corner edge.
+4. Verify the colour for the tick by clicking the checkbox.
+5. Verify the checkbox is selectable by clicking on the checkbox with the mouse.
+6. Verify the checkbox is selectaable by the keyboard.
+7. Verify the user can uncheck the checkbox by clicking on it.
+8. Verify if the user can select multiple checkboxes or not.
+9. verify the label text present with the checkbox.
+10 Verify if the label text aligned with the checkbox or not.
+11 verify on page load the very first checkbox selescted by default and showing tick sign.
+12 Verify whether on click on the label text checkbox value checked or not.
+13 Verify the spelling for the label text alinged with the checkbox.
+14 Verfy same label text is not repeated with the checkboxes.
+15 Verify the order for the values or label text with the checkbox.
+16 Vrify whether user selected checkbox values should save in the database by clicking on the submit button or not.
+17 Verify checkbox can be uncheckable or not by clicking on the check box after selecting .
+18 Verify validation is added fno checkbox is checked and click on the submit button and an alter or error message must appear.
+
+
+  test case for url
+ ..................................................
+
+1. Verify by clicking in the input URL field that the user can access the field.
+2. Verify user can type URL in the field.
+3. Verify user can paste URL with the keyboard key URL in the field.
+4. Check by the pasting the URL in the field with the help of mouse .
+5. Paste URL and press enter key on the keyboard result generation process should be started.
+6. Check by adding a valid URL with https://.
+7. Check by adding a valid URL with http://.
+8. Verify by adding all the extensions or TLD's. .in, .be, .xyz, site etc.
+9 Check by adding spaces at the start of the URL.click on the button,spaces should not be considered.
+10 Checking by adding only the domain name without http://.
+11 Check by without entering the URL in the field and click on the button .A proper error message should be shown ,NoURL found.
+12 Verify by adding an IP address of the website and click on the button.
+12 Check by adding a valid URL without extension.
+13 Check by adding only the name of the site without adding dot in the URL field.
+14 Check by adding only the extension .https://www.com
+15  Check by adding the URL of the maximumlength
+16 Check by adding the URL of the minimumlength.
+17 Verify the behaviour of the application entering an encode URL.
+18 Verify a URL containing parameters.
+19 Verify by adding and removing forwor slashes/.
+20 Verify a URL CONTAINING ANY SPECIAL CHARACTERS
+21 Verify an anchor text URL
+22 Verify on click on the button an error messsge shown for blank inputbor not.
+23 Verify on click on the butto ,an error message shown for adding spaces in the URL field or not.
+ 
+
+  Test case for the mobile number field
+........................................................
+
+1. Verify that the mobile number field should display the accepted format of the mobile number as the placeholder text for user assistance.
+2. Add a valid mobile number and verify the field should accept the correct mobile number.
+3. Verify user can cipy and paste the mobile number in the field or not.
+4. Verify mobile number field should accept only the numeric value by entering alphabets.
+5. Verify mobile number field should accept only the numeric value by entering the special character.
+6. Verify by entering the less number than the actul mobile number .
+7. Verify the behaviour by adding more digits than the actul mobile number. 
+8. verify field accepts the space between the mobile number or not according to the requirements.
+9. Verify an error message shown for the blank input for the mobile number field.
+10 Verify by adding only the spaces in the Mobile Number field.
+11 Verify correct mobile number is saved in the database or not by click on the save or next button.
+12 Verify mobile number is saved by pressing the enter button after adding the mobile number in the field.
+13 Verify country flags are shown with mobile number field or not.
+14 Verify with flags country code is shown or not with the mobile number field.
+
+
+
+   Test cases for Captcha
+  ......................................
+
+1. Verify the time duration in which the captcha is loading on the webpage.
+2. Test captcha should not be by passed by clicking on the captcha multiple time when the captcha time when the captcha is not loaded and 
+   shown on the webpage during web page loading.
+3. Check the time out for the captcha .The time in which the captcha become unchecked.
+4. Test the captcha on slow internet .An invalid captcha error message should not be shown.
+5. Verify the captcha and click on the submit button two times it should not display an invalid captcha error.
+6. Verify every time a new captcha should be shown on page reload.
+7. Verify user IP is blocked on attempting an invalid captcha after the defined number of attempts.
+8. Verify captcha is placed on the required web page.
+9. Verify captcha added is alinged or not.
+10 Verify webpage accepts the valid captcha or not 
+11 Verify that the user can request for new captcha without the page loading option is present or not.
+12 Verify an audio option is added for the captcha or not as per requirements.
+13 Verify new captcha is generated in case if the user adds the wrong captcha.
+14 Verify an error message shown when page timeout for the captcha.
+15 Verify an error message should be shown in case if the captcha is not filled by the user.
+16 Vrify a proper error message is shown incase if the user not fills the captcha correctly.
+17 verify an error message is shown in case if the captcha is partly filled by the user.
+18 Verify image in the tile is shown on click on the checkbox or not.
+19 Verify the images are the clearly visible to the user or not.
+20 Verify tile images shown on captcha are clickable or not.
+21 Verify that the captcha is loaded properly on the web page load
+
+Test cases related to digit /Code captcah
+.....................................................
+
+1. Verify captcha code is clearly visible or not.
+2. verify user can not copy and paste the captcha verification code from the image.
+3. Verify code shown should be in image from or not.
+4. Verify captcha should display code clearly between zero 0and O o,5 and S.
+5. Verify captcha code should be case sensitive (Upper and Lower case).
+
+
+Test case for GUI
+..................................................
+
+1. Verify that all the elements(checkbox,radio button,text field etc) on the webpage are aligned or not.
+2. Make sure that icons on the webpage align with the web page.
+3. Verify that placeholder text on the input field is present and visible or not.
+4. Verify the layout the webpage on cross device testing.
+5. Test responsivness for all the elements label text,field,checkboxes,or radio buttons on diffrent browsers while testing cross browser testing.
+6. Verify whether the font size for the content on the webpage is readable or not.
+7. Confirm the font colour for the content on the web page or not.
+8. Verify the placement and position of the error message shown on the webpage according to design.
+9. Verify the colour for the message,warnings and info messages.
+10 Verify proper padding and spacing between diffrent elements on the web page (label text and checkbox,buttons devs etc.)
+11 Verify image should not be blurred and visible on the webpage.
+12 check banners or images should be shown and alinged on mobile devices.And should not be trimmed.
+13 Verify the text on thr images should be readable.
+14 Verify the spellings should be correct on the web page.
+15 Verify the correct page should be open on click on the link.
+16 Check the colours for the links added to the text.
+17 Verify the headings on the content.
+18 Verify whether the validation is on the fields or not.
+19 A confirmation message is shown on the popup or alert in case of delete functionality on the web page or not.
+20 Verify titels on all web pages.
+21 verify there should not be any broken links present on the web page.
+22 Make sure there should not be any broken images should not be shown on the webpage.
+23 Verify the order of the values on the dropdown list should be sorted as required.
+24 Verify 404 page is desinged or not. 
